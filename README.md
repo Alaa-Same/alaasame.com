@@ -1,24 +1,14 @@
-# Alaa Same portfolio website
+# Alaa Same personal website redesign
 
-Responsive static multi-page website prepared for `alaasame.com`.
+## Publish
+Replace the existing `index.html` and `assets` folder in the GitHub Pages repository. Keep the included `CNAME` file.
 
-## Pages
-- Home
-- Experience
-- Projects
-- Certifications
-- Media & Community
-- Insights
-- Contact
+## Image choices
+- `profile.jpg`: primary portrait, optimized for the hero section.
+- `cycling-aleppo.jpg`: signature Cycling4Hope visual.
+- `cycling-road.jpg` and `cycling-reality.jpg`: endurance and behind-the-scenes storytelling.
+- `podcast-studio.jpg`: podcast/media section.
+- `public-dialogue.jpg`, `public-speaking.jpg`, and `community-dialogue.jpg`: public dialogue and community leadership.
 
-## Before publishing
-1. Replace the portrait placeholder on the home page.
-2. Update the LinkedIn links and public contact email.
-3. Verify all professional statements and project descriptions.
-4. Connect a form service if you want direct form submissions.
-
-## Local preview
-Open `index.html` in a browser, or run a local static server.
-
-## GitHub Pages
-Upload all files to the root of a GitHub repository, enable Pages from the main branch, and retain the included `CNAME` file. Then configure the required DNS records with your domain provider according to GitHub's current documentation.
+## Important
+Confirm that `hello@alaasame.com` is active. If not, replace it in `index.html` before publishing.
