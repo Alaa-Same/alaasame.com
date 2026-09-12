@@ -1,13 +1,11 @@
-# Alaa Same Interactive Portfolio
+# Corrected Alaa Same portfolio
 
-## Highlights
-- Scroll reveal animation
-- Animated hero keywords and achievement counters
-- Expandable professional project rows
-- Filterable media portfolio
-- Click-to-enlarge image gallery
-- Responsive WebP images in consistent editorial aspect ratios
-- Featured Syrian Dialogue publication
+Corrections made:
+- Correct public email: alaasamiaka@gmail.com
+- Gharbiyyin feature image replaced with a full-frame source showing both participants
+- Media images use `object-fit: contain` to prevent people being cropped out
+- More suitable 16:9 hero-media ratio
+- Safer external-link attributes
+- Mobile image-height guard
 
-## Publish
-Upload the contents of this folder to the root of the GitHub Pages repository. Keep `CNAME`. Confirm the public email before publishing.
+Upload the contents of this folder to the GitHub Pages repository root.
