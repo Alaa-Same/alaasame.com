@@ -1,0 +1,106 @@
+{
+  "profile": [
+    [
+      640,
+      "profile-640.webp"
+    ],
+    [
+      1280,
+      "profile-1280.webp"
+    ],
+    [
+      1920,
+      "profile-1920.webp"
+    ]
+  ],
+  "cycling-main": [
+    [
+      640,
+      "cycling-main-640.webp"
+    ]
+  ],
+  "cycling-road": [
+    [
+      640,
+      "cycling-road-640.webp"
+    ],
+    [
+      1280,
+      "cycling-road-1280.webp"
+    ],
+    [
+      1920,
+      "cycling-road-1920.webp"
+    ]
+  ],
+  "cycling-repair": [
+    [
+      640,
+      "cycling-repair-640.webp"
+    ]
+  ],
+  "podcast": [
+    [
+      640,
+      "podcast-640.webp"
+    ],
+    [
+      1280,
+      "podcast-1280.webp"
+    ]
+  ],
+  "dialogue": [
+    [
+      640,
+      "dialogue-640.webp"
+    ],
+    [
+      1280,
+      "dialogue-1280.webp"
+    ]
+  ],
+  "speaking": [
+    [
+      640,
+      "speaking-640.webp"
+    ],
+    [
+      1280,
+      "speaking-1280.webp"
+    ]
+  ],
+  "community": [
+    [
+      640,
+      "community-640.webp"
+    ],
+    [
+      1280,
+      "community-1280.webp"
+    ]
+  ],
+  "podcast-alt": [
+    [
+      640,
+      "podcast-alt-640.webp"
+    ],
+    [
+      1280,
+      "podcast-alt-1280.webp"
+    ]
+  ],
+  "journey": [
+    [
+      640,
+      "journey-640.webp"
+    ],
+    [
+      1280,
+      "journey-1280.webp"
+    ],
+    [
+      1920,
+      "journey-1920.webp"
+    ]
+  ]
+}
