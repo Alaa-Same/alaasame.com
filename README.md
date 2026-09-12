@@ -1,2 +1,2 @@
-# Alaa Same interactive homepage
-Upload the contents of this folder to the repository root. The contact email is alaasamiaka@gmail.com.
+# Alaa Same Human Impact homepage
+Mobile-first interactive portfolio with warm palette, floating portrait, swipe galleries and correct email: alaasamiaka@gmail.com.
